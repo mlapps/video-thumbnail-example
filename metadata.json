@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "identifier": "",
+  "name": "appName",
+  "identifier": "appIdentifier",
   "version": "1.0.0",
   "icon": "./static/icon.png"
 }
